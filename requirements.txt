@@ -1,8 +1,9 @@
-rdkit
-selfies
-numpy
-ipykernel
-matplotlib
-seaborn
+rdkit==2024.3.3
+selfies==2.1.2
+numpy==2.0.1
+ipykernel==6.29.5
+matplotlib==3.9.1
+seaborn==0.13.2
+jupyter==1.0.0
 
 git+https://github.com/lich-uct/syba.git
