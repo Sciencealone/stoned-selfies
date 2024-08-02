@@ -5,5 +5,3 @@ ipykernel==6.29.5
 matplotlib==3.9.1
 seaborn==0.13.2
 jupyter==1.0.0
-
-git+https://github.com/lich-uct/syba.git
